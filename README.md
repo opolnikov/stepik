@@ -1,2 +1,2 @@
 # stepik
-Тест Git и Pycharm
+Связь Git и Pycharm
