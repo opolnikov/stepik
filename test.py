@@ -5,3 +5,4 @@ print(x+y)
 a = x+y+z
 print(a)
 print (Писал это текст с сайта git, чтобы в pycharm увидел что писал)
+тест
